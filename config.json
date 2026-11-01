@@ -25,7 +25,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "⍣⃝↣SUITEᥫ᭡CANDY꧂",
+  "nickNameBot": "KIRITO🎀",
   "prefix": ",",
   "commandSuggestion": {
     "enable": true,
@@ -58,7 +58,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100002344705976"
+    "61592161472671"
   ],
   "whiteListMode": {
     "enable": false,
@@ -183,7 +183,7 @@
     "selfListen": false,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
-    "autoReconnect": true,
+    "autoReconnect": false,
     "randomUserAgent": false,
     "notes": "FCA options passed to the login library. If randomUserAgent is true, the bot picks a random user agent from facebookAccount.userAgents on each login"
   }
